@@ -17,7 +17,7 @@ Esta API permite o registro, login, consulta de usuários e transferências de v
    ```
 2. Instale as dependências:
    ```sh
-   npm install express swagger-ui-express bcryptjs
+   npm install
    ```
 
 ## Como rodar
